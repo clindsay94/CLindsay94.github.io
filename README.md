@@ -10,12 +10,9 @@ Google Play requires developers to provide an active, publicly accessible URL fo
 
 ### Active Applications
 
-* **RemEx** * [Privacy Policy](./privacy-policy-remex.md)
-    * [Terms of Service](./terms-of-service-remex.md)
+* **RemEx** * [Privacy Policy](PrivacyPolicy)
+    * [Terms of Service](Terms)
 
-* **[Your Next App Name]**
-    * [Privacy Policy](./privacy-policy-template.md)
-    * [Terms of Service](./terms-of-service-template.md)
 
 ### General Policies
 
@@ -26,7 +23,7 @@ Google Play requires developers to provide an active, publicly accessible URL fo
 
 If you are browsing the source repository, the structure is organized as follows:
 
-- `index.md` (This page - acts as the landing page for the `.io` site)
+- `readme.md` (This page - acts as the landing page for the `.io` site)
 - `_config.yml` (Jekyll configuration for GitHub Pages theme)
 - `/policies/` (Directory containing individual markdown files for each app's legal documents)
 - `/assets/` (Any required CSS or images)
